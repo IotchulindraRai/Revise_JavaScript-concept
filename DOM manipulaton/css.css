@@ -1,0 +1,19 @@
+.containar{
+background-attachment: fixed;
+background-color: blanchedalmond;
+
+justify-content: space-between;
+align-items: center;
+padding: 450px;
+row-gap: 10px;
+margin: 0%;
+width: 450px;
+}
+.box{
+    width: 100px;
+    height: 100px;;
+    background-color: aqua;
+    justify-content: center;
+    align-items: center;
+display: flex;
+}

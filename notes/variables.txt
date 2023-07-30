@@ -1,0 +1,3 @@
+In JavaScript, variables are declared using the var, let, or const keyword. The var keyword was traditionally used to declare 
+variables in JavaScript, but with the introduction of ECMAScript 6 (ES6) in 2015, let and const were introduced as more modern alternatives. 
+It is recommended to use let and const instead of var for better scoping and to avoid certain issues.
