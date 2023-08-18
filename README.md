@@ -13,10 +13,15 @@ The syntax for creating a promise in JavaScript is as follows:
 # javascript
 
 const myPromise = new Promise((resolve, reject) => {
+
   // Asynchronous operation (e.g., API call, file reading, etc.)
+  
   // If successful, call resolve(value)
+  
   // If there's an error, call reject(error)
+  
 });
+
 **Here's a brief overview of how to use promises:**
 
  **Creating a Promise**: You create a new Promise object, and the executor function receives two parameters, resolve and reject. You perform the asynchronous operation inside the executor function, and when it's done, you call resolve(value) with the result or reject(error) if there was an error.
